@@ -5,7 +5,7 @@ This program can test your lexical analyzer with test_sample
 
 ###How to use it
 
-* 如果對工作站不熟，請看點以下連結觀看圖文解說：
+* 如果對工作站不熟，請看點以下連結觀看圖文解說：(感謝yahli提供)
  <pre>
 https://drive.google.com/file/d/0B0HNBL2XSIayUGUxRVBrekRVbDA/view?usp=sharing
  </pre>
