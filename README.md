@@ -12,3 +12,7 @@ wget --no-check-certificate -O  - https://raw.githubusercontent.com/lctseng/NCTU
 
  * Then, change into 'NCTU-Compiler-Hw1-Tester' directory, copy your xxx.l source file into that directory
  * Run run './test xxx.l'
+<pre>
+# in the 'NCTU-Compiler-Hw1-Tester'
+./test xxx.l
+</pre>
