@@ -5,7 +5,8 @@
 : ==============================================
 
 git clone --depth=1 https://lctseng@github.com/lctseng/NCTU-Compiler-Hw1-Tester
-rm -rf /NCTU-Compiler-Hw1-Tester/.git
+rm -rf ./NCTU-Compiler-Hw1-Tester/.git
+rm -f ./NCTU-Compiler-Hw1-Tester/.gitignore
 
 : ==============================================
 :   Download finished!
