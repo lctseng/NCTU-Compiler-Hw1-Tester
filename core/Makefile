@@ -12,7 +12,7 @@ run:
 	 @echo "******** End of Test *********"
 test:
 	@lex scanner.l
-	@gcc lex.yy.c -Wno-builtin-macro-redefined -lfl -o scanner  -D ERR_FD=stdout
+	@gcc lex.yy.c -lfl -o scanner  -D ERR_FD=stdout
 	@rm -f lex.yy.c
 	@./main_tester 
 
