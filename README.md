@@ -3,7 +3,7 @@ NCTU-Compiler-Hw1-Tester
 
 This program can test your lexical analyzer with test_sample
 
-###How to use it
+### How to use it
 
 * 如果對工作站不熟，請看點以下連結觀看圖文解說：(感謝yahli提供)
  <pre>
