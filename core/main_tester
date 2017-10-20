@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 function run_test(){
     dir=$1
     shift
