@@ -21,3 +21,5 @@ wget --no-check-certificate -O  - https://raw.githubusercontent.com/lctseng/NCTU
 # in the 'NCTU-Compiler-Hw1-Tester'
 ./test xxx.l
 </pre>
+
+* 如果是Ubuntu 16.04 要把main_tester 第一行改成 #!/bin/bash 才能執行耶，可能請亮齊大大過目一下？
